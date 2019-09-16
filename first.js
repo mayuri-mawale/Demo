@@ -2,7 +2,7 @@ var Greeting = /** @class */ (function () {
     function Greeting() {
     }
     Greeting.prototype.greet = function () {
-        console.log("Hello World!!!");
+        console.log("Hello javascript ...welcome!!!");
     };
     return Greeting;
 }());
